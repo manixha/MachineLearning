@@ -3,7 +3,7 @@
 1.Linear Regression
 2.Logistic Regression
 3.Decision Tree
-4.Random Forest
+4.Random Forest (Bagging Technique)
 5.Boosting Technique
 6.Support Vector Machine
 7.Clustering Technique
