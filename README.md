@@ -1,4 +1,4 @@
-# Machine Learning
+# Machine Learning Algorithm
 
 1.Linear Regression
 2.Logistic Regression
